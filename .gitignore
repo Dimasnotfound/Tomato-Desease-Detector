@@ -1,0 +1,10 @@
+# Ignore model files and directories
+models/
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Ignore static files and directories
+static/
